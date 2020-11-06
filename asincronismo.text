@@ -1,0 +1,5 @@
+Que es asincronismo, accion que no ocurre al mismo tiempo.
+Hilo - entrada -salida. De un elemento a la vez.
+Event loop como el ejecutor de toda la ejecucion de tareas.
+
+-¿Que es un callbak? funcion que creamos que tiene por dentro otra duncion y se ejecuta al resolver la segunda.
