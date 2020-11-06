@@ -3,3 +3,4 @@ Hilo - entrada -salida. De un elemento a la vez.
 Event loop como el ejecutor de toda la ejecucion de tareas.
 
 -¿Que es un callbak? funcion que creamos que tiene por dentro otra duncion y se ejecuta al resolver la segunda.
+-¿Que es una promesa? algo que promete que va a pasar cuando como tal no se sabe
