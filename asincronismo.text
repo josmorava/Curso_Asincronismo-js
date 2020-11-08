@@ -4,3 +4,4 @@ Event loop como el ejecutor de toda la ejecucion de tareas.
 
 -¿Que es un callbak? funcion que creamos que tiene por dentro otra duncion y se ejecuta al resolver la segunda.
 -¿Que es una promesa? algo que promete que va a pasar cuando como tal no se sabe
+-¿Que es Asyn Await?nace en emnmascript 6, hace que nuestro codigo se comporte de una manera sincrona
